@@ -1,0 +1,9 @@
+#Utd sitemap
+https://www.utdallas.edu/wp-sitemap.xml
+#api secret key
+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
+
+#sample url
+https://www.utdallas.edu/fact-sheets/is/ba-american-studies/
+
+ollama run llama2
